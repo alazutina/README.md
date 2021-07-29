@@ -1,7 +1,7 @@
 ##Проекты
-# [Игра Blackjack Solitaire ](https://github.com/alazutina/BJS)
-#
-#
-#
-#
-#
+### [Игра Blackjack Solitaire ](https://github.com/alazutina/BJS)
+###
+###
+###
+###
+###
